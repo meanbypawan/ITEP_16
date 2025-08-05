@@ -2,7 +2,6 @@ class Operation{
     public int updateData(int x){
         x = x + 2;
     }
-    
 }
 class TestMain{
     public static void main(String args[]){
